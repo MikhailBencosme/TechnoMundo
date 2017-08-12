@@ -1,6 +1,6 @@
 {
     "name": "techno_mundo", "version": "1.0.0", "keywords": [
-        "util", "functional", "server", "client", "browser"
+     "util", "functional", "server", "client", "browser"
     ], "author": "mikha", "contributors": [
     ], "dependencies": {}
 }
