@@ -1,9 +1,9 @@
 {
     "elements": {
-        "div": {},
-        "p": {},
-        "br": {},
-        "img": {}
+     "div": {},
+     "p": {},
+     "br": {},
+      "img": {}
     },
     "attributes": {}
 }
